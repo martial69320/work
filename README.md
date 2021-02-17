@@ -1,4 +1,4 @@
-# BfaCore - World of Warcraft Battle For Azeroth 8.3.7.35662 Emulator
+# 8.3.7.35662 Emulator
 
 
 --------------
