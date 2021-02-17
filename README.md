@@ -14,7 +14,7 @@
 
 ## Introduction
 
-BfaCore is mostly based on TrinityCore, written in c++ and sql.
+written in c++ and sql.
 
 
 
